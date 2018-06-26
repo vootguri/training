@@ -1,0 +1,2 @@
+#name as rake and @succeed same as features file tags
+succeed: --tags @succeed
